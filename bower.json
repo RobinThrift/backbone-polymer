@@ -1,0 +1,23 @@
+{
+  "name": "backbone-polymer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/RobinThrift/backbone-polymer",
+  "authors": [
+    "Robin Thrift <thrift.d.robin@googlemail.com>"
+  ],
+  "description": "A test for merging backbone with polymer",
+  "main": "build/backbione.polymer.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "polymer": "~0.2.3"
+  }
+}
