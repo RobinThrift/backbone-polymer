@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/RobinThrift/backbone-polymer/issues"
   },
-  "homepage": "https://github.com/RobinThrift/backbone-polymer"
+  "homepage": "https://github.com/RobinThrift/backbone-polymer",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "express": "^4.1.1",
+    "gulp-livereload": "^1.3.1",
+    "tiny-lr": "0.0.7",
+    "connect-livereload": "^0.4.0",
+    "gulp-jshint": "^1.5.5",
+    "jshint-stylish": "^0.2.0",
+    "bower": "^1.3.3",
+    "gulp-traceur": "^0.5.0",
+    "karma": "^0.12.14",
+    "gulp-karma": "0.0.4"
+  }
 }
